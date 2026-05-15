@@ -6,7 +6,7 @@
 ## Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt)
 
-<img width="552" height="429" alt="image-Photoroom" src="https://github.com/user-attachments/assets/99152875-6392-4003-87d8-7e8083d80a98" />
+<img width="1108" height="414" alt="image" src="https://github.com/user-attachments/assets/ffe4cf82-2ba4-404b-9a94-d38bd0c2dfd3" />
 
 ## Языки программирования (Programming languages):
 <a href="linkedin-url">
