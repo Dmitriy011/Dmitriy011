@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" title="C#"/>
 </a>
 
-## Операц. сист.: 
+## Операц. системы: 
 - Windows, Linux (Astra)
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Win"/>
