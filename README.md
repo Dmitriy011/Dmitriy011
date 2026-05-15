@@ -4,7 +4,7 @@
 </div>  
 
 ## Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt" width="1108" alt="GitHub Stats"/>
 
 <img width="1108" height="417" alt="image" src="https://github.com/user-attachments/assets/e7a87028-154e-4a63-9f13-d33018fd2d28" />
 
