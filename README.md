@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 <a href="linkedin-url">
   <img src1 = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="LinkedIn"/>
+</a>
+
+<a href="linkedin-url">
   <img src2 = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="LinkedIn"/>
 </a>
 
