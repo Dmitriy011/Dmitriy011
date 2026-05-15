@@ -35,4 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" title="Blender"/>
 </a>
 
+## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitriy011&theme=github_dark)
