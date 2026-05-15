@@ -3,7 +3,7 @@
   <h3> C++ Developer from Nizhny Novgorod</h3>
 </div>  
 
-## Stats
+## Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt)
 
 ## Языки программирования (programming languages):
