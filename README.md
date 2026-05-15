@@ -6,7 +6,7 @@
 ## Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt)
 
-## Языки программирования (programming languages):
+## Языки программирования (Programming languages):
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
 </a>  
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" title="C#"/>
 </a>
 
-## Операц. системы (operating systems): 
+## Операц. системы (Operating systems): 
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Win"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
