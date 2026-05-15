@@ -1,13 +1,7 @@
 <div id = "header" align="center">
   <h1> Hi there, I`m Dmitriy Rozanov, 24 y.o.</h1>
   <h3> C++ Developer from Nizhny Novgorod</h3>
-</div>  
-
-## Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt" width="1108" alt="GitHub Stats"/>
-
-## Education:
-<img width="1108" height="417" alt="image" src="https://github.com/user-attachments/assets/e7a87028-154e-4a63-9f13-d33018fd2d28" />
+</div> 
 
 ## Языки программирования (Programming languages):
 <a href="linkedin-url">
@@ -31,3 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="50" title="OpenGL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" title="Blender"/>
 </a>
+
+
+## Stats:
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt" width="1108" alt="GitHub Stats"/>
+
+## Education:
+<img width="1108" height="417" alt="image" src="https://github.com/user-attachments/assets/e7a87028-154e-4a63-9f13-d33018fd2d28" />
