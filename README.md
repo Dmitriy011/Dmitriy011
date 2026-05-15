@@ -5,14 +5,12 @@
 
 ## Языки программирования:
 - C++ (осн.)
-- базовый C, C#, Python
-
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
 </a>
 
 ---
-
+- базовый C, C#, Python
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python"/>
