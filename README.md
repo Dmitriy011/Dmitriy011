@@ -20,7 +20,7 @@
 ## Операц. сист.: 
 - Windows, Linux (Astra)
 <a href="linkedin-url">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="Win"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
 </a>
 ---
