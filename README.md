@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id = "header" align="center">
+  <h1> Hi there, I`m Dmitriy Rozanov</h1>
+  <h3> C++, Qt, OpenGL Developer from Nizhny Novgorod</h3>
+</div>  
+
+<a href="linkedin-url">
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="LinkedIn"/>
+</a>
