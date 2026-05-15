@@ -1,6 +1,6 @@
 <div id = "header" align="center">
   <h1> Hi there, I`m Dmitriy Rozanov</h1>
-  <h3> C++, Qt, OpenGL Developer from Nizhny Novgorod</h3>
+  <h3> C++ Developer from Nizhny Novgorod</h3>
 </div>  
 
 <a href="linkedin-url">
