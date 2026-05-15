@@ -7,12 +7,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt)
 
 ## Языки программирования (programming languages):
-- C++ (осн.)
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
 </a>
-
-- базовый (base) C, C#, Python
+---
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python"/>
