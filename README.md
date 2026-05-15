@@ -22,8 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Win"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
 </a>
----
 
+## Технологии и Инструменты:
+- QT
+- Cmake
+- OpenGL
+- Blender
 <a href="linkedin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="50" title="Qt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg" width="50" title="CMake"/>
