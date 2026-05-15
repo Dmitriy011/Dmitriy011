@@ -1,5 +1,5 @@
 <div id = "header" align="center">
-  <h1> Hi there, I`m Dmitriy Rozanov</h1>
+  <h1> Hi there, I`m Dmitriy Rozanov, 24 y.o.</h1>
   <h3> C++ Developer from Nizhny Novgorod</h3>
 </div>  
 
