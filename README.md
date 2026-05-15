@@ -3,6 +3,9 @@
   <h3> C++ Developer from Nizhny Novgorod</h3>
 </div>  
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy011&theme=cobalt)
+
 ## Языки программирования (programming languages):
 - C++ (осн.)
 <a href="linkedin-url">
@@ -34,6 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="50" title="OpenGL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" title="Blender"/>
 </a>
-
-## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitriy011&theme=github_dark)
